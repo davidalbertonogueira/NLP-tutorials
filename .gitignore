@@ -1,104 +1,104 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+code/__pycache__/
+code/*.py[cod]
+code/*$py.class
 
 # C extensions
-*.so
+code/*.so
 
 # Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+code/.Python
+code/build/
+code/develop-eggs/
+code/dist/
+code/downloads/
+code/eggs/
+code/.eggs/
+code/lib/
+code/lib64/
+code/parts/
+code/sdist/
+code/var/
+code/wheels/
+code/*.egg-info/
+code/.installed.cfg
+code/*.egg
+code/MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+code/*.manifest
+code/*.spec
 
 # Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+code/pip-log.txt
+code/pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
+code/htmlcov/
+code/.tox/
+code/.coverage
+code/.coverage.*
+code/.cache
+code/nosetests.xml
+code/coverage.xml
+code/*.cover
+code/.hypothesis/
+code/.pytest_cache/
 
 # Translations
-*.mo
-*.pot
+code/*.mo
+code/*.pot
 
 # Django stuff:
-*.log
-local_settings.py
-db.sqlite3
+code/*.log
+code/local_settings.py
+code/db.sqlite3
 
 # Flask stuff:
-instance/
-.webassets-cache
+code/instance/
+code/.webassets-cache
 
 # Scrapy stuff:
-.scrapy
+code/.scrapy
 
 # Sphinx documentation
-docs/_build/
+code/docs/_build/
 
 # PyBuilder
-target/
+code/target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+code/.ipynb_checkpoints
 
 # pyenv
-.python-version
+code/.python-version
 
 # celery beat schedule file
-celerybeat-schedule
+code/celerybeat-schedule
 
 # SageMath parsed files
-*.sage.py
+code/*.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+code/.env
+code/.venv
+code/env/
+code/venv/
+code/ENV/
+code/env.bak/
+code/venv.bak/
 
 # Spyder project settings
-.spyderproject
-.spyproject
+code/.spyderproject
+code/.spyproject
 
 # Rope project settings
-.ropeproject
+code/.ropeproject
 
 # mkdocs documentation
 /site
 
 # mypy
-.mypy_cache/
+code/.mypy_cache/
