@@ -2,7 +2,7 @@
 Slides and code for the intro to NLP class at the Data Science Retreat  @ Berlin, 28 Oct 2019
 
 ## Text Classification 
-[Text Classification with BoW + TF-IDF + Naive bayes and SVM](TextClassificationClassic.ipynb)
+[Text Classification with BoW + TF-IDF + Naive bayes and SVM](TextClassification.ipynb)
 based on http://github.com/Gunjitbedi/Text-Classification
 
 [Text Classification with word embeddings + neural network](TextClassificationNN.ipynb)
