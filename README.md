@@ -39,3 +39,8 @@ based on http://github.com/Gunjitbedi/Text-Classification
 
 ## Named Entity Recognition 
 [Named Entity Recognition](NamedEntityRecognition.ipynb)
+
+##Bonus material
+[Transformers - Attention is all you need](code/annotated-transformer/The Annotated Transformer.ipynb)
+copied from http://nlp.seas.harvard.edu/2018/04/03/attention.html 
+Paper: https://arxiv.org/abs/1706.03762
