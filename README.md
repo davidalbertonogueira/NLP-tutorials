@@ -19,6 +19,7 @@ pip install -r requirements.txt  | pip install -r requirements.txt
 pip install http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl (1)* | pip install http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-win_amd64.whl (1)*
 pip install torchvision  | pip install torchvision
 pip install torchtext==0.2.3  | pip install torchtext==0.2.3 
+python -m spacy download en_core_web_sm | python -m spacy download en_core_web_sm
 
 (1)* replace "cpu" in link if you plan to use GPU: "cu80" for CUDA 8, "cu90" for CUDA 9.0, "cu92" for CUDA 9.2, ...
 
