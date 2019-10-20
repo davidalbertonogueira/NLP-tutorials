@@ -4,8 +4,7 @@ Slides and code for the intro to NLP class at the Data Science Retreat  @ Berlin
 ## Installation
 
 ### Requirements
-Besides python >= 3.7 ('capture_output' argument in subprocess.run is not available in the 3.6 version) and pip, 
-the required libraries are listed in `requirements.txt`.
+Besides python >= 3.7 and pip, the required libraries are listed in `requirements.txt`.
 
 Code is cross-platform. Tested in Windows and Ubuntu 18.04.
 
@@ -28,15 +27,21 @@ please visit http://pytorch.org/ and follow their instructions to install the re
 
 
 ## Text Classification 
-[Text Classification with BoW + TF-IDF + Naive bayes and SVM](TextClassification.ipynb)
+[Text Classification with BoW + TF-IDF + Naive bayes and SVM](code/TextClassification.ipynb)
 based on http://github.com/Gunjitbedi/Text-Classification
 
-[Text Classification with word embeddings + neural network](TextClassificationNN.ipynb)
+[Text Classification with word embeddings + neural network](code/TextClassificationNN.ipynb)
 
-[Sentiment Analysis with specific word embeddings + neural network](SentimentAnalysis.ipynb)
+[Sentiment Analysis with specific word embeddings + neural network](code/SentimentAnalysis.ipynb)
 
 ## Recomendation 
-[Recomendation using Colaborative filtering](Recomendation.ipynb)
+[Recomendation using Colaborative filtering](code/Recomendation.ipynb)
 
 ## Named Entity Recognition 
-[Named Entity Recognition](NamedEntityRecognition.ipynb)
+[Named Entity Recognition](code/NamedEntityRecognition.ipynb)
+
+## Bonus material
+[Transformers: Attention is all you need](code/annotated-transformer/The_Annotated_Transformer.ipynb)
+
+copied from http://nlp.seas.harvard.edu/2018/04/03/attention.html 
+Paper: https://arxiv.org/abs/1706.03762
