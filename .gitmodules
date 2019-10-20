@@ -1,3 +1,6 @@
 [submodule "code/SentimentAnalysis"]
 	path = code/SentimentAnalysis
 	url = https://github.com/davidalbertonogueira/SentimentAnalysis
+[submodule "code/annotated-transformer"]
+	path = code/annotated-transformer
+	url = https://github.com/davidalbertonogueira/annotated-transformer
