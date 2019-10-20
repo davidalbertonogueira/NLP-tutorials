@@ -1,0 +1,3 @@
+[submodule "code/SentimentAnalysis"]
+	path = code/SentimentAnalysis
+	url = https://github.com/davidalbertonogueira/SentimentAnalysis
