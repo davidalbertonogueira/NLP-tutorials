@@ -4,3 +4,6 @@
 [submodule "code/annotated-transformer"]
 	path = code/annotated-transformer
 	url = https://github.com/davidalbertonogueira/annotated-transformer
+[submodule "code/stack-lstm-ner-pytorch"]
+	path = code/stack-lstm-ner-pytorch
+	url = https://github.com/davidalbertonogueira/stack-lstm-ner-pytorch
