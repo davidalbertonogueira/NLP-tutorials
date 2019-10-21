@@ -40,6 +40,7 @@ based on http://github.com/Gunjitbedi/Text-Classification
 
 ### Sentiment Analysis
 [Sentiment Analysis with task-specific word embeddings + Pytorch neural network](https://github.com/davidalbertonogueira/SentimentAnalysis)
+
 The implemented model is a Deep Bidirectional LSTM model with Attention, based on the work of Baziotis et al., 2017: 
 [DataStories at SemEval-2017 Task 4: Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis](http://aclweb.org/anthology/S17-2126).
 
@@ -48,10 +49,12 @@ The implemented model is a Deep Bidirectional LSTM model with Attention, based o
 
 ## Named Entity Recognition 
 [Transition-based NER system (in C++ Dynet)](https://github.com/davidalbertonogueira/stack-lstm-ner-dynet)
-[Pytorch version](https://github.com/davidalbertonogueira/stack-lstm-ner-pytorch)
+[(Pytorch version)](https://github.com/davidalbertonogueira/stack-lstm-ner-pytorch)
+
 Paper: https://arxiv.org/pdf/1603.01360.pdf
 
 ## Bonus material
 [Transformers: Attention is all you need](https://github.com/davidalbertonogueira/annotated-transformer/blob/master/The%20Annotated%20Transformer.ipynb)
 copied from http://nlp.seas.harvard.edu/2018/04/03/attention.html 
+
 Paper: https://arxiv.org/abs/1706.03762
