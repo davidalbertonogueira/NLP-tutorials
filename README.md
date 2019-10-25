@@ -6,6 +6,7 @@ Slides and code for the intro to NLP class at the Data Science Retreat  @ Berlin
 Clone this repo with 
 ```
 git clone --recursive https://github.com/davidalbertonogueira/NLP-tutorials
+git submodule update --depth 10 --recursive --init
 ```
 
 
